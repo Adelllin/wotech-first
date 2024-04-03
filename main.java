@@ -1,6 +1,3 @@
-//OR
-//I will buy eggs if they will be on the sale OR they will cost less than 2.50
-//I will go running, if I will have enough energy OR if the weather is shiny.
 public class Main {
   public static void main(String[] args) {
    //winter, spring, summer, autumn
