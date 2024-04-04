@@ -26,11 +26,4 @@ My major projects
       else if (temp <=30){
 
       System.out.println("Wear normal");
-  }
-  else if (temp >= +30)
-  
-  System.out.println("Wear cooling");
-  
-  }
-}
-```
+   ```
